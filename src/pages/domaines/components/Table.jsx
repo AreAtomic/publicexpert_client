@@ -85,9 +85,7 @@ const Table = () => {
                   <td className='px-5 py-5 border-b border-gray-200 bg-white text-sm'>
                     <a href='/optimisation-fiscale'>SCI</a>
                   </td>
-                  <td className='px-5 py-5 border-b border-gray-200 bg-white text-sm'>
-                    <a href='/optimisation-paye'></a>
-                  </td>
+                  <td className='px-5 py-5 border-b border-gray-200 bg-white text-sm'></td>
                   <td className='px-5 py-5 border-b border-gray-200 bg-white text-sm'>
                     <a href='/budget-previsionnel'>Secteur social</a>
                   </td>
