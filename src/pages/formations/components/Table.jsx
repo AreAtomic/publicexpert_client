@@ -117,6 +117,7 @@ const Table = () => {
                   <td className='px-5 py-5 border-b border-gray-200 bg-white text-sm'>
                     <a href='/formations/comptabilite-M22-M22bis'>
                       Fiscalité : TVA - TS
+                      Fiscalité : TVA - TS
                     </a>
                   </td>
                 </tr>
